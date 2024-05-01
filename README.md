@@ -1,4 +1,4 @@
-My Mac dotfiles for easy setup, just clone and run setup-mac.sh, at the end it will tell you some steps that can not be automated (mostly apple security reasons).
+My Mac dotfiles for easy setup, just clone and run `setup-mac.sh`, at the end it will tell you some steps that can not be automated (mostly apple security reasons).
 
 Installs:
 - git
